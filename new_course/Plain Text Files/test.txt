@@ -1,0 +1,13 @@
+Hello there! We are wring in file using python.
+hope that goes well with first attemp...
+files in python are jusawesome feature!Hello there! We are wring in file using python.
+hope that goes well with first attemp...
+files in python are jusawesome feature!
+
+
+
+
++++This is an example for append (a) mode in python.
+
+line 1,
+line 2
