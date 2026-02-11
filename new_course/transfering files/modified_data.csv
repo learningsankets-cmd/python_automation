@@ -1,0 +1,21 @@
+id,name,age,city,salary,salary_category
+1,Alice,23,New York,55000,Average!
+2,Bob,34,Los Angeles,72000,GOOD!
+3,Charlie,29,Chicago,63000,GOOD!
+4,Diana,41,Houston,81000,GOOD!
+5,Ethan,37,Phoenix,76000,GOOD!
+6,Fiona,25,Philadelphia,58000,Average!
+7,George,46,San Antonio,90000,GOOD!
+8,Hannah,31,San Diego,67000,GOOD!
+9,Ivan,28,Dallas,64000,GOOD!
+10,Julia,39,San Jose,85000,GOOD!
+11,Kevin,33,Austin,70000,GOOD!
+12,Laura,27,Seattle,62000,GOOD!
+13,Mike,45,Denver,88000,GOOD!
+14,Nina,30,Boston,66000,GOOD!
+15,Oscar,36,Atlanta,74000,GOOD!
+16,Paula,24,Miami,56000,Average!
+17,Quinn,42,Portland,91000,GOOD!
+18,Rachel,35,Orlando,79000,GOOD!
+19,Sam,26,Tampa,60000,Average!
+20,Tina,38,Nashville,82000,GOOD!
