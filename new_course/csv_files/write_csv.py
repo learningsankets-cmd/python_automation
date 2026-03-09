@@ -21,3 +21,5 @@ with open('./items.csv', 'w', newline='') as csv_file:
             [5, "Stapler", 5.5, 30]
             ]
     csv_writer.writerows(data)
+
+    print("Data written succesfully...!")

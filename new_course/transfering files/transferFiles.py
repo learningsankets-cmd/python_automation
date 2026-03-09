@@ -4,7 +4,7 @@ import csv
 def salary_category(salary):
     salary = int(salary)
 
-    if salary <= 60000:
+    if salary < 60000:
         category = 'Average!'
     elif salary >= 60000:
         category = 'GOOD!'
